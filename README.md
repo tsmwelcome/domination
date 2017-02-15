@@ -1,4 +1,10 @@
 domination
 ==========
 
-this is a card game of chinese history
+# description
+
+# design 
+
+# how to run
+
+# contribute
